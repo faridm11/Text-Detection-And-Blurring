@@ -19,3 +19,8 @@ This project presents a Python-based model for detecting text in images and blur
 - Python 3.x
 - OpenCV
 - Tesseract OCR
+
+## Performance
+- CPU : Ryzen 5 5600x
+- CPU Usage: Under 10%
+- 5 frames per second
