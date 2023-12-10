@@ -1,4 +1,4 @@
-#Text Detection and Blurring Model 
+Text Detection and Blurring Model 
 
 Overview
 This project presents a Python-based model for detecting text in images and blurring it. This tool is particularly useful for maintaining privacy and confidentiality in screen-shared images or videos. The model combines the power of OpenCV for image processing and Tesseract OCR for text detection.
